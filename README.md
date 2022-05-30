@@ -4,7 +4,7 @@ A machine learning project using CNN for recognising traffic signs
 - To train the dataset, use this command:
 py train.py --dataset dataset --model output/trafficsignnet.model --plot output/plot.png
 
---dataset: The dataset folder
+--dataset: The dataset folder.
 --model: The folder where the model is stored after training process finished.
 --plot: The name of the file containing the graph of val_loss and train_loss through each epoch.
 
