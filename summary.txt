@@ -1,0 +1,50 @@
+                                                    precision    recall  f1-score   support
+
+                              Speed limit (20km/h)       0.21      0.97      0.34        60
+                              Speed limit (30km/h)       0.74      0.71      0.73       720
+                              Speed limit (50km/h)       0.88      0.74      0.80       750
+                              Speed limit (60km/h)       0.98      0.54      0.70       450
+                              Speed limit (70km/h)       0.97      0.80      0.88       660
+                              Speed limit (80km/h)       0.66      0.64      0.65       630
+                       End of speed limit (80km/h)       0.99      0.89      0.94       150
+                             Speed limit (100km/h)       0.58      0.69      0.63       450
+                             Speed limit (120km/h)       0.65      0.95      0.77       450
+                                        No passing       0.96      0.91      0.94       480
+      No passing for vechiles over 3.5 metric tons       0.97      0.97      0.97       660
+             Right-of-way at the next intersection       0.92      0.95      0.93       420
+                                     Priority road       0.99      0.98      0.98       690
+                                             Yield       0.97      0.99      0.98       720
+                                              Stop       0.98      1.00      0.99       270
+                                       No vechiles       0.99      0.89      0.94       210
+          Vechiles over 3.5 metric tons prohibited       0.84      1.00      0.91       150
+                                          No entry       1.00      0.98      0.99       360
+                                   General caution       0.96      0.76      0.85       390
+                       Dangerous curve to the left       0.85      0.92      0.88        60
+                      Dangerous curve to the right       0.65      0.89      0.75        90
+                                      Double curve       0.73      0.89      0.80        90
+                                        Bumpy road       0.97      0.73      0.83       120
+                                     Slippery road       0.87      0.81      0.84       150
+                         Road narrows on the right       0.81      0.97      0.88        90
+                                         Road work       0.95      0.93      0.94       480
+                                   Traffic signals       0.96      0.84      0.90       180
+                                       Pedestrians       0.77      0.93      0.84        60
+                                 Children crossing       0.67      0.95      0.79       150
+                                 Bicycles crossing       0.61      0.99      0.76        90
+                                Beware of ice/snow       0.82      0.44      0.57       150
+                             Wild animals crossing       0.96      0.96      0.96       270
+               End of all speed and passing limits       1.00      0.92      0.96        60
+                                  Turn right ahead       0.95      1.00      0.97       210
+                                   Turn left ahead       0.98      1.00      0.99       120
+                                        Ahead only       1.00      0.97      0.99       390
+                              Go straight or right       0.90      0.99      0.94       120
+                               Go straight or left       0.95      0.98      0.97        60
+                                        Keep right       0.99      0.95      0.97       690
+                                         Keep left       1.00      0.97      0.98        90
+                              Roundabout mandatory       0.78      0.97      0.86        90
+                                 End of no passing       0.88      0.95      0.91        60
+End of no passing by vechiles over 3.5 metric tons       0.90      0.92      0.91        90
+
+                                          accuracy                           0.87     12630
+                                         macro avg       0.87      0.89      0.86     12630
+                                      weighted avg       0.89      0.87      0.87     12630
+
